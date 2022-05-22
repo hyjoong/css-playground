@@ -1,9 +1,3 @@
 # CSS PlayGround
 
-
-## Storybook
-
-## styled-components
-
-
-## [배포 주소](playgrounding.netlify.app)
+## [배포 주소](https://playgrounding.netlify.app/)
